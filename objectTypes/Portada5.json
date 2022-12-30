@@ -1,10 +1,16 @@
 {
-	"name": "Fondo7",
+	"name": "Portada5",
 	"plugin-id": "Sprite",
-	"sid": 334542163725771,
+	"sid": 588532426057036,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Fade",
+			"name": "Desvanecer",
+			"sid": 233381428564004
+		}
+	],
 	"effectTypes": [],
 	"animations": {
 		"items": [
@@ -18,12 +24,12 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 1937141,
+						"imageSpriteId": 3372357,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 250132617845315,
+				"sid": 697745258600047,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

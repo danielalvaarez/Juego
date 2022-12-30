@@ -468,8 +468,8 @@
 					"instanceVariables": {},
 					"behaviors": {},
 					"world": {
-						"x": 536,
-						"y": 375,
+						"x": 543,
+						"y": 388,
 						"width": 361,
 						"height": 358,
 						"originX": 0.5,
@@ -695,18 +695,7 @@
 					},
 					"uid": 24,
 					"instanceVariables": {},
-					"behaviors": {
-						"Desvanecer": {
-							"properties": {
-								"fade-in-time": 0,
-								"wait-time": 2,
-								"fade-out-time": 1,
-								"destroy": true,
-								"enabled": true,
-								"live-preview": false
-							}
-						}
-					},
+					"behaviors": {},
 					"world": {
 						"x": 490,
 						"y": 241,
@@ -725,7 +714,49 @@
 					}
 				},
 				{
-					"type": "Portada7",
+					"type": "P6",
+					"properties": {
+						"text": "A Juseph le pregutan que qué significan las siglas RAM, él cree que esa pregunta es demasiado fácil y te la cede, ¿Qué significan?",
+						"enable-bbcode": true,
+						"font": "Arial",
+						"size": 12,
+						"line-height": 0,
+						"bold": false,
+						"italic": false,
+						"color": [
+							0,
+							0,
+							0,
+							1
+						],
+						"horizontal-alignment": "left",
+						"vertical-alignment": "top",
+						"wrapping": "word",
+						"initially-visible": true,
+						"origin": "top-left"
+					},
+					"uid": 23,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 367,
+						"y": 61,
+						"width": 326,
+						"height": 117,
+						"originX": 0,
+						"originY": 0,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Sprite6",
 					"properties": {
 						"initially-visible": true,
 						"initial-animation": "Animation 1",
@@ -733,7 +764,36 @@
 						"enable-collisions": true,
 						"live-preview": false
 					},
-					"uid": 25,
+					"uid": 26,
+					"instanceVariables": {},
+					"behaviors": {},
+					"world": {
+						"x": 523,
+						"y": 336,
+						"width": 290,
+						"height": 287,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Fondo8",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 28,
 					"instanceVariables": {},
 					"behaviors": {
 						"Desvanecer": {
@@ -748,8 +808,48 @@
 						}
 					},
 					"world": {
-						"x": 443,
-						"y": 262,
+						"x": 487,
+						"y": 241,
+						"width": 490,
+						"height": 478,
+						"originX": 0.5,
+						"originY": 0.5,
+						"color": [
+							1,
+							1,
+							1,
+							1
+						],
+						"angle": 0,
+						"zElevation": 0
+					}
+				},
+				{
+					"type": "Portada5",
+					"properties": {
+						"initially-visible": true,
+						"initial-animation": "Animation 1",
+						"initial-frame": 0,
+						"enable-collisions": true,
+						"live-preview": false
+					},
+					"uid": 27,
+					"instanceVariables": {},
+					"behaviors": {
+						"Desvanecer": {
+							"properties": {
+								"fade-in-time": 0,
+								"wait-time": 2,
+								"fade-out-time": 1,
+								"destroy": true,
+								"enabled": true,
+								"live-preview": false
+							}
+						}
+					},
+					"world": {
+						"x": 456,
+						"y": 253,
 						"width": 401,
 						"height": 360,
 						"originX": 0.5,

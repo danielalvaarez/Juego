@@ -1,16 +1,10 @@
 {
-	"name": "Portada7",
+	"name": "Sprite6",
 	"plugin-id": "Sprite",
-	"sid": 486068198504032,
+	"sid": 511191369053805,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": [
-		{
-			"behaviorId": "Fade",
-			"name": "Desvanecer",
-			"sid": 589125551718253
-		}
-	],
+	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
 		"items": [
@@ -24,12 +18,12 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 888180,
+						"imageSpriteId": 5136571,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 951266502366460,
+				"sid": 523073535352509,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
