@@ -1,14 +1,14 @@
 {
-	"name": "Portada5",
+	"name": "Fondo10",
 	"plugin-id": "Sprite",
-	"sid": 546471531566973,
+	"sid": 855077852501796,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [
 		{
 			"behaviorId": "Fade",
 			"name": "Desvanecer",
-			"sid": 502802123041285
+			"sid": 801907252804877
 		}
 	],
 	"effectTypes": [],
@@ -24,12 +24,12 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 2438949,
+						"imageSpriteId": 9345111,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 818035287290992,
+				"sid": 503316271371837,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,

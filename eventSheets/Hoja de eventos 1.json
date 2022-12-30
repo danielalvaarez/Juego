@@ -280,13 +280,177 @@
 				{
 					"id": "set-visible",
 					"objectClass": "P6",
-					"sid": 637544292894346,
+					"sid": 768430768141732,
 					"parameters": {
 						"visibility": "invisible"
 					}
 				}
 			],
 			"sid": 156516306914790
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 329889439090484,
+					"parameters": {
+						"text": "\"Reinicias al menú de inicio avanzado\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo8",
+					"sid": 997022144950273,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite7",
+					"sid": 822126465882170,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P7",
+					"sid": 132780513588419,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 821285747840992
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 889729798031527,
+					"parameters": {
+						"text": "\"Se reinicia al menú de inicio avanzado\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo8",
+					"sid": 798148660648157,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite7",
+					"sid": 557251588761132,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P7",
+					"sid": 521183877484072,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 944441159569899
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 721064997761674,
+					"parameters": {
+						"text": "\"Reinicias al menu de inicio avanzado\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo8",
+					"sid": 613776532156117,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite7",
+					"sid": 785409797306923,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P7",
+					"sid": 128056487948452,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 319299344279680
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 311883143908370,
+					"parameters": {
+						"text": "\"Se reinicia al menu de inicio avanzado\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo8",
+					"sid": 466025519552397,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite7",
+					"sid": 790176464430591,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P7",
+					"sid": 567402736482122,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 312734657847075
 		}
 	],
 	"sid": 163090008963807

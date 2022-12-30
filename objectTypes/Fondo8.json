@@ -1,16 +1,10 @@
 {
 	"name": "Fondo8",
 	"plugin-id": "Sprite",
-	"sid": 609083214116376,
+	"sid": 872702615989003,
 	"isGlobal": false,
 	"instanceVariables": [],
-	"behaviorTypes": [
-		{
-			"behaviorId": "Fade",
-			"name": "Desvanecer",
-			"sid": 679154605491027
-		}
-	],
+	"behaviorTypes": [],
 	"effectTypes": [],
 	"animations": {
 		"items": [
@@ -24,12 +18,12 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 8230346,
+						"imageSpriteId": 8351342,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 393006902955246,
+				"sid": 814917868202389,
 				"name": "Animation 1",
 				"isLooping": false,
 				"isPingPong": false,
