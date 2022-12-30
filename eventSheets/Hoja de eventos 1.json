@@ -1,0 +1,252 @@
+{
+	"name": "Hoja de eventos 1",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 869564138269042,
+					"parameters": {
+						"text": "\"8\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "P1",
+					"sid": 695798775017376,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo2",
+					"sid": 942371928723982,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite",
+					"sid": 312398322941001,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 832423547768731
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 428865934029101,
+					"parameters": {
+						"text": "\"4\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo3",
+					"sid": 897620791708428,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P2",
+					"sid": 576794704533032,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite2",
+					"sid": 773603216927535,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 714468501233223
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 495334235530919,
+					"parameters": {
+						"text": "\"No\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo4",
+					"sid": 367837166428920,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P3",
+					"sid": 260810418826718,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite3",
+					"sid": 387138893879205,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 229327788416000
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 108309822758780,
+					"parameters": {
+						"text": "\"Eficiencia\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "P4",
+					"sid": 346076401819839,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo5",
+					"sid": 228327559717842,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite4",
+					"sid": 928237634765808,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 652298547218062
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 189317713792495,
+					"parameters": {
+						"text": "\"Si\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo6",
+					"sid": 882988310359822,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite5",
+					"sid": 928376453278559,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P5",
+					"sid": 179235091168289,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 624276456455909
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-text",
+					"objectClass": "EntradaDeTexto1",
+					"sid": 792863605296082,
+					"parameters": {
+						"text": "\"Sí\"",
+						"case": "case-insensitive"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-visible",
+					"objectClass": "Fondo6",
+					"sid": 375080383455785,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "Sprite5",
+					"sid": 565297886563047,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				},
+				{
+					"id": "set-visible",
+					"objectClass": "P5",
+					"sid": 695900400609219,
+					"parameters": {
+						"visibility": "invisible"
+					}
+				}
+			],
+			"sid": 650225818474692
+		}
+	],
+	"sid": 163090008963807
+}
